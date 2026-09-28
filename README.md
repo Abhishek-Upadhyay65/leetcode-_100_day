@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
