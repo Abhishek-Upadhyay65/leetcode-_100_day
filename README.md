@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
