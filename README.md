@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
+| [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
