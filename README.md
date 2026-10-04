@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
+| [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
