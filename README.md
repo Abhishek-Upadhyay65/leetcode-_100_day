@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0142-linked-list-cycle-ii) |
+| [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
