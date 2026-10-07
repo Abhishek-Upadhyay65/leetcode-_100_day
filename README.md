@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/3875-construct-uniform-parity-array-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 ## Minimax
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
