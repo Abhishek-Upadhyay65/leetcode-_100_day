@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0142-linked-list-cycle-ii) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
