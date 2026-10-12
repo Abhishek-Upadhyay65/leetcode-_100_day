@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 ## Design
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
