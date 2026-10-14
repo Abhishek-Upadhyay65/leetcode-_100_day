@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
