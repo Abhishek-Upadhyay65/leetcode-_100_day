@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
