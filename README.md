@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
