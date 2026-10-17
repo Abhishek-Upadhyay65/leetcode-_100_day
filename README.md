@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
