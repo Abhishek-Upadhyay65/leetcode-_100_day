@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
