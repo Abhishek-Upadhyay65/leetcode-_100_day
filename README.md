@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/3875-construct-uniform-parity-array-i) |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
