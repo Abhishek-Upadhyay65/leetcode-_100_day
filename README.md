@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
