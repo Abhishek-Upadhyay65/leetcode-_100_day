@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
