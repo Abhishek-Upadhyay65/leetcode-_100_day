@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
 ## Linked List
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
@@ -202,5 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
