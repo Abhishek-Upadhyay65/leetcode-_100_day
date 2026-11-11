@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/3875-construct-uniform-parity-array-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2469-convert-the-temperature) |
