@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/3875-construct-uniform-parity-array-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0680-valid-palindrome-ii) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
