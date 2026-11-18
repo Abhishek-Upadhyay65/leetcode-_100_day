@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
+| [1598-crawler-log-folder](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0680-valid-palindrome-ii) |
+| [1598-crawler-log-folder](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1598-crawler-log-folder) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Backtracking
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1472-design-browser-history) |
+| [1598-crawler-log-folder](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1598-crawler-log-folder) |
 ## Design
 |  |
 | ------- |
