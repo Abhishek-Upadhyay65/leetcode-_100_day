@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0680-valid-palindrome-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Floyd's Cycle Finding Algorithm
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
