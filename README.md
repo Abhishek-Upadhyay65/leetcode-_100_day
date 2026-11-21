@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0219-contains-duplicate-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0020-valid-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0680-valid-palindrome-ii) |
 | [1598-crawler-log-folder](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1598-crawler-log-folder) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0451-sort-characters-by-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -241,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
