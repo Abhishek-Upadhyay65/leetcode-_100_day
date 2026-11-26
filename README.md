@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/0059-spiral-matrix-ii) |
 | [1603-design-parking-system](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhishek-Upadhyay65/leetcode-_100_day/tree/master/2011-final-value-of-variable-after-performing-operations) |
